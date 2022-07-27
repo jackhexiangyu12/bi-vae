@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="spark_user@59.77.17.101:51111 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="spark_user@59.77.17.101:51111 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/spark_user/lib/py-object/temp" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
